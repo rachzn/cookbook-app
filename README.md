@@ -17,7 +17,7 @@ Today I officially started the "cookbook" project.
 I identified the core idea, main features and I created the Github repository.
 My goal is to improve my software engineering skills, UX/UI as well as documantation skills
 Tomorrow, I will begin designing the App using Figma.
-# Progress Log
+# Progress Log Day 2
 Wednesday, July 8 2026- Design and Planning
 Today I designed the initial app layout on paper.
 Finalized the apps theme and color palette.
